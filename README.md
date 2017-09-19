@@ -1,4 +1,4 @@
-# -statistics_coverage
+# statistics_coverage
 给定一个url列表，统计这些url的域名或者前缀在hbase库中是否存在，输出为一个在库的url列表文件和一个不在的列表文件。
 
 调用格式
